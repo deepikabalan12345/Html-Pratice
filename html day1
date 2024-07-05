@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>full stack</title>
+    <link rel="icon" href="image/images.jpg">
+    <link  rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+    <h1>
+        This is deepika
+        <style>
+            h1{color:aquamarine;}
+        </style>
+    </h1>
+    <h2>Good News Today</h2>
+    <div class="fee"><h2> Flower </h2
+        ></div>
+    
+   
+   <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero a dicta odit beatae, fugiat quia dolores aut. Hic natus sed provident cupiditate dignissimos iste deleniti fugiat, qui atque quos vitae.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium dicta eveniet dolores voluptate, numquam quaerat quasi asperiores, explicabo, quos cumque deleniti esse. Ratione laboriosam voluptates assumenda blanditiis at eaque ea?
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente accusantium maiores sit sint, illum dolore maxime sunt recusandae laboriosam eveniet nulla repellat. Animi qui tempora a corrupti similique aspernatur aut.
+    </p>
+    <ol>
+        <li>Apple</li>
+        <li>banana</li>
+        <li>grapes</li>
+        
+    </ol>
+    <a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TewzDazSDNg9BJISU0tyMxOVChITCnNzs9LBQB-AQlc&q=deepika+padukone&oq=deepika&aqs=chrome.1.69i57j46i131i433i512j46i433i512j46i131i433i512j46i433i512j0i433i512l4.3722j0j15&sourceid=chrome&ie=UTF-8">Click Here</a>
+    <table border="1px">
+        <tr>
+            <th> Sno</th>
+            <th> Name</th>
+            <th> Dob</th>
+            <th> Dep</th>
+
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Deepika</td>
+            <td>1/10</td>
+            <td>Ece</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Dharani</td>
+            <td>15/01</td>
+            <td>Ece</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Madhu</td>
+            <td>5/09</td>
+            <td>Ece</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Moni</td>
+            <td>27/03</td>
+            <td>Pharma</td>
+            
+        </tr>
+    </table>
+    <marquee>Exciting New</marquee>
+    <form>
+        <label>First Name</label>
+        <input><br><br>
+        <label>Last Name</label>
+        <input><br><br>
+        <button>Submit</button>
+        <button>Reset</button>
+
+    </form>
+    
+    <img src="im/kawaii-cat-with-heart-valentine-s-day-vector-illustration_1100171-34.jpg"style="height:200px;width:200px";align:center";>
+</body>
+</html>
