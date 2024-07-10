@@ -1,0 +1,40 @@
+.gee{
+    background-color: brown;
+    color:white;
+    padding:10px;
+}
+.h{
+    background-color: brown;
+    text-align:center;
+    transform:translate(0px,-60px);
+
+}
+
+a{
+    padding:10px;
+    color:white;
+    text-decoration-line:1px;
+}
+.fg{
+    font-size: large;
+    text-align: center;
+    padding:10px;
+    color: black;
+    background-color: rgb(7, 76, 85);
+}
+.ty{
+    background-color: green;
+    color:white;
+}
+.op{
+    background-color: aquamarine;
+    text-decoration:underline;
+    color:black;
+    text-align: center;
+}
+.rt{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+
+}
